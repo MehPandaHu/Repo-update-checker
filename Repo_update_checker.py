@@ -7,7 +7,7 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # URL of the file to monitor
-url = "%%%% give your repo link %%%%"
+url = "https://raw.githubusercontent.com/MehPandaHu/testing/main/test"
 # File to store the last content
 last_content_file = "last_content.txt"
 
