@@ -1,4 +1,4 @@
-YAML update checker : 
+YAML rule update checker : 
 
 
 %%% Replace this URL with the URL of the YAML file you want to monitor  %%%
